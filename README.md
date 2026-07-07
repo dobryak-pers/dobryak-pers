@@ -1,18 +1,8 @@
 <h1 align="center">Roman Brodnikov</h1>
 
 <p align="center">
-  <!-- GitHub Троифеи (если захочешь включить, пока закомментировано или можно вставить картинку) -->
-  <!-- <img src="https://github-profile-trophy.vercel.app/?username=твой-username&theme=onedark&column=5" alt="GitHub Trophies" /> -->
-</p>
-
-<p align="center">
-  <!-- Карточка наиболее используемых языков -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=твой-username&layout=compact&theme=tokyonight&hide_border=false" alt="Most Used Languages" height="200" />
-</p>
-
-<p align="center">
-  <!-- Карточка LeetCode (интеграция стороннего виджета, например leetcode-stats) -->
-  <img src="https://github-readme-leetcode-stats.vercel.app/?username=твой-leetcode-username&theme=dark&hide_border=false" alt="LeetCode Stats" height="200" />
+  <!-- Карточка LeetCode -->
+  <img src="https://leetcard.jacoblin.cool/dobryak_pers?theme=unicorn" alt="LeetCode Stats" height="180" />
 </p>
 
 ---
@@ -23,18 +13,25 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/C++
--00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
   <img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Transformers" />
 </p>
-
-<h3 align="center">Backend & Databases</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/BERT-HF--Style?style=for-the-badge&logo=google-gemini&logoColor=white&color=brightgreen" alt="BERT" />
+  <img src="https://img.shields.io/badge/GNN-NetworkX?style=for-the-badge&logo=dependabot&logoColor=white&color=blueviolet" alt="GNN" />
 </p>
 
-<h3 align="center">Infrastructure</h3>
+<h3 align="center">Programming Languages</h3>
 <p align="center">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
+</p>
+
+<h3 align="center">Backend, Databases & Infra</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
