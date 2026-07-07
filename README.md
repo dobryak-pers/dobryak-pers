@@ -15,9 +15,9 @@
 ## 👩‍💻 About Me
 
 I am an Artificial Intelligence & Programming student from Russia.
-* 🔭 **I’m currently focused on:** Deep Learning, Graph Neural Networks (GNN), and NLP models.
-* 🌱 **Exploring:** Advanced architecture optimization and high-performance backend development in Go.
-* ⚡ **In my free time:** I solve algorithmic problems on LeetCode and dive into tech research.
+* 🔭 **I’m currently focused on:** Deep Learning, Classic ML and Computer Vision.
+* 🌱 **Exploring:** Advanced architecture optimization.
+* ⚡ **In my free time:** I read foreign literature, sip a cappuccino, and check this world for bugs.
 
 ---
 
